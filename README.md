@@ -27,7 +27,7 @@ Execute o arquivo index.html
 
 Neste projeto foi desenvolvido uma aplicação de lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
-![image]()
+![image](screenshot.png)
 
 ## 📝 Requisitos do projeto
 
