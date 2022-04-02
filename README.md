@@ -1,6 +1,6 @@
 <h1 align="center">Project To Do List</h1>
 
-<p align="center">⏳ In progress</p>
+<p align="center">✔️ Concluded</p>
 
 ## 💻 Instalando o projeto
 
@@ -52,15 +52,6 @@ Neste projeto foi desenvolvido uma aplicação de lista de tarefas usando `HTML`
 - [x] 10. Adicione um botão com id="apaga-tudo" que quando clicado deve apagar todos os itens da lista;
 
 - [x] 11. Adicione um botão com id="remover-finalizados" que quando clicado remove somente os elementos finalizados da sua lista.
-
-### Requisitos bônus:
-
-- [ ] 12. Adicione um botão com id="salvar-tarefas" que salve o conteúdo da lista. Se você fechar e reabrir a página, a lista deve continuar no estado em que estava;
-
-- [ ] 13. Adicione dois botões, um com id="mover-cima" e outro com id="mover-baixo", que permitam mover o item selecionado para cima ou para baixo na lista de tarefas;
-
-- [ ] 14. Adicione um botão com id="remover-selecionado" que, quando clicado, remove o item selecionado.
-
 
 ##
 
